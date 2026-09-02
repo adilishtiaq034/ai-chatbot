@@ -1,6 +1,6 @@
 #  AI Chatbot
 
-A modern AI-powered chatbot built with React.js that delivers intelligent conversational responses through the OpenRouter API. Designed with a clean interface, responsive layout, and smooth user friendly experience with voice note feature.
+A modern AI-powered chatbot built with React that delivers intelligent conversational responses through the OpenRouter API. Designed with a clean interface, responsive layout, and smooth user friendly experience with voice note feature.
 
 ##  Live Demo
 
